@@ -1,0 +1,6 @@
+{
+  "name": "OBS Live Metadata & Album Art",
+  "description": "Extract and display gorgeous real-time music metadata and album art from DI.FM streams for OBS Studio stream overlays and widgets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
